@@ -12,7 +12,7 @@ function App() {
       <main>
         <section className="about-section">
           <div className="container">
-          <img src={achillesCoinImage} className="Coin-image" alt="Achilles Coin" />
+          <img className="responsive-image" src={achillesCoinImage} alt="Achilles Coin" />
             <h2>About Achilles</h2>
             <p>Achilles is a decentralized cryptocurrency platform that brings together the worlds of memes and blockchain technology. Our mission is to create a fun and engaging community where users can share, create, and reward each other for their favorite memes.</p>
           </div>
