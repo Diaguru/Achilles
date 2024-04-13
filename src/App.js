@@ -6,8 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to achilles</h1>
+        <h1>Welcome to Achilles</h1>
         <p className="tagline">Where memes meet cryptocurrency</p>
+        <img src={achillesCoinImage} className="Coin-image" alt="Achilles Coin" />
       </header>
       <main>
         <section className="about-section">
